@@ -9,7 +9,6 @@ import Loading from 'react-loading'
 import { fetchRecipes } from '../utils/api'
 import FoodList from './FoodList'
 import ShoppingList from './ShoppingList'
-//console.log(ArrowRightIcon)
 
 class App extends Component {
   state = {

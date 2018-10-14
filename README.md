@@ -1,7 +1,7 @@
 # Project Overview
 ## Guilherme Malfatti - Udacity
 
-udacity Meals is a project to create a bookshelf app that allows you to select and categorize books you have read, are currently reading, or want to read. The project emphasizes using React to build the application and provides an API server and client library that we use to persist information as teh user interact with the application.
+Udacity Meals is a project to create a a calendar app that allows you to select food for each day of a week and list all the recipies that you need to buy. The project emphasizes using React to build the application and redux to manage the app state.
 
 ### Project Requirements
 
