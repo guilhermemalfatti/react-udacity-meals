@@ -1,7 +1,7 @@
 # Project Overview
 ## Guilherme Malfatti - Udacity
 
-Udacity Meals is a project to create a a calendar app that allows you to select food for each day of a week and list all the recipies that you need to buy. The project emphasizes using React to build the application and redux to manage the app state.
+Udacity Meals is a project to create a calendar app that allows you to select food for each day of a week and list all the recipies that you need to buy. The project emphasizes using React to build the application and redux to manage the app state.
 
 ### Project Requirements
 
@@ -31,5 +31,4 @@ Your app should now be running on [localhost:3000](http://localhost:3000/).
 
 For more information about using Node.js and React, see these Dev Center articles:
 
-- [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 - [React, a JavaScript library for building user interfaces](https://reactjs.org/tutorial/tutorial.html)
